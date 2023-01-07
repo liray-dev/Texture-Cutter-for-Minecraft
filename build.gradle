@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'ru.muwwy'
+version '2.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = '11'
+targetCompatibility = '11'
+
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
+application {
+    mainModule = 'ru.muwwy'
+    mainClass = 'ru.muwwy.Main'
+}
+
+jar {
+    manifest {
+        attributes(
+                'Main-Class': 'ru.muwwy.Main'
+        )
+    }
+}

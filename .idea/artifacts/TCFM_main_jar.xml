@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TCFM.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TCFM_main_jar</output-path>
+    <root id="archive" name="TCFM.main.jar">
+      <element id="module-output" name="TCFM.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.2/f52640ea07a0d7fe2ac8b9f945ec58fa22ac1afd/javafx-controls-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.2/ca46f15a306175ac1513211e1d190a5baacd77cc/javafx-base-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.2/707f290bacde2738c0a7e1d0b4a8193002c29cf7/javafx-controls-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.2/1eb7ce07e07ccc2fcb26103f07535e72069519d6/javafx-graphics-17.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17.0.2/5079f88d5345e988222c90a345ad682b7aaccad3/javafx-fxml-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.2/1bd6dc88b180a6239a5067320c2f0d7f3526e1d2/javafx-base-17.0.2-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.2/6f95886c8fed3e1b21370a199c3937846ef6b3cc/javafx-graphics-17.0.2-win.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
